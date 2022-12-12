@@ -1,8 +1,24 @@
 # Types of Interviews To Expect
 
+<figure><img src="https://resources.biginterview.com/wp-content/uploads/54718995_s.jpg" alt=""><figcaption></figcaption></figure>
+
 **The traditional job interview** is generally conducted in person, with one interviewer, at the employer's offices.
 
 However, there are a number of other types of interview scenarios that you must be prepared for. Here's a breakdown:
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**1. Telephone Interviews**</mark>](types-of-interviews-to-expect.md#1.-telephone-interviews)<mark style="color:purple;">****</mark>
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**2. One on One, Face to Face**</mark>](types-of-interviews-to-expect.md#2.-one-on-one-face-to-face)<mark style="color:purple;">****</mark>
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**3. One on One, Face to Face, and Back to Back**</mark>](types-of-interviews-to-expect.md#3.-one-on-one-face-to-face-and-back-to-back)<mark style="color:purple;">****</mark>
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**4. Video Interviews**</mark>](types-of-interviews-to-expect.md#4.-video-interviews)<mark style="color:purple;">****</mark>
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**5. Panel Interviews**</mark>](types-of-interviews-to-expect.md#5.-panel-interviews)<mark style="color:purple;">****</mark>
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**6. Group Interviews**</mark>](types-of-interviews-to-expect.md#6.-group-interviews)<mark style="color:purple;">****</mark>
+
+### <mark style="color:green;">**1. Telephone Interviews**</mark> <a href="#1" id="1"></a>
 
 **Telephone interviews** are usually used to **screen candidates** early in the process, though it is not unheard of to hire someone on the basis of a telephone interview.
 
@@ -44,13 +60,15 @@ For this reason, you may also want to take the time to dress professionally for 
 
 **Don’t interrupt** questions or observations, but employ active listening techniques, saying “I see” during pauses, for example, and offering brief acknowledgements to comments.
 
-#### **2. One-on-One, Face-to-Face** <a href="#2.-one-on-one-face-to-face" id="2.-one-on-one-face-to-face"></a>
+### <mark style="color:green;">**2. One-on-One, Face-to-Face**</mark> <a href="#2" id="2"></a>
 
 **Many of your job interviews will be in-person conversations** -- just you and your interviewer in an office or conference room.
 
 _We will cover a wealth of information about how to prepare for and ace the in-person interview in the following modules._
 
-#### **3. One-on-One, Face-to-Face, & Back-to-Back** <a href="#3.-one-on-one-face-to-face-and-back-to-back" id="3.-one-on-one-face-to-face-and-back-to-back"></a>
+﻿__﻿
+
+### <mark style="color:green;">**3. One-on-One, Face-to-Face, & Back-to-Back**</mark> <a href="#3" id="3"></a>
 
 Often, you will be asked to meet separately with **multiple interviewers** during a single visit to the employer's offices. This is a good sign. Someone has decided it's worth making time for you on multiple executive schedules.
 
@@ -76,11 +94,16 @@ If one meeting doesn't go well, shake it off and start fresh. Not everyone is go
 
 If a new interviewer is suddenly added to the schedule, that's a sign that things are going well and the company wants to fit in meetings with as many decision makers as possible while you're there.
 
+\
+
+
+### <mark style="color:green;">**4. Video Interviews**</mark> <a href="#4" id="4"></a>
+
 Frequently, employers are now conducting **interviews** via video conference, especially first-round interviews.
 
 Since everyone got comfortable with video meeting platforms like Zoom and Google Meet during the pandemic, video interviews are **now a standard part of the hiring process. In some cases, all interview rounds are conducted via video.**
 
-For some, the prospect of a video interview may seem more stressful than a face-to-face because there is no personal contact, even though you are dealing with a real-time image and voice.
+For some, the prospect of a video interview may seem more stressful than a face-to-face because there is no personal contact, even though you are dealing with a real-time image and voice.&#x20;
 
 _However, with our tips and a few practice sessions, you'll soon be comfortable with the video interview format._
 
@@ -110,9 +133,14 @@ If you're new to video interviews, it's **important to practice** so you don't s
 
 If you hate watching yourself on video, you'll have to learn how to tune out your own image and avoid obsessing over how you look. The time for that is during your webcam practice session.
 
-Some video conference services allow you to minimise your own image and view only the interviewer. That may be a good solution as long as you practice in advance and know how to minimize without interrupting the session or causing any other unintended consequences.
+Some video conference services allow you to minimise your own image and view only the interviewer. That may be a good solution as long as you practice in advance and know how to minimise without interrupting the session or causing any other unintended consequences. &#x20;
 
-**Shut down other applications** and any alarms, alerts, or ringers. Also, remember to avoid distracting sounds a microphone would pick up, such as shuffling papers or fidgeting.
+**Shut down other applications** and any alarms, alerts, or ringers. Also, remember to avoid distracting sounds a microphone would pick up, such as shuffling papers or fidgeting.&#x20;
+
+\
+
+
+### <mark style="color:green;">**5. Panel Interviews**</mark> <a href="#5" id="5"></a>
 
 The panel interview may be the **most intimidating**, because you know you'll be outnumbered.
 
@@ -134,9 +162,14 @@ Your pre-interview **research is even more critical** when preparing for a panel
 
 **Remembering names is important**, so take advantage of introductions to say each panellist's name when you shake hands and make initial eye contact. This will help etch their names into your memory when the questioning starts. Remembering each name is particularly critical at the end of the interview when you thank each participant by name with a handshake.
 
+\
+
+
+### <mark style="color:green;">**6. Group Interviews**</mark> <a href="#6" id="6"></a>
+
 In a group job interview, **multiple candidates** are assembled for a group discussion and/or to perform an exercise. Often, this is a case study or hypothetical scenario to analyse.
 
-However, group interviews have also cantered around team presentations, competitive Q\&A, and even Lego building.
+However, group interviews have also centred around team presentations, competitive Q\&A, and even Lego building.
 
 These interviews are designed to evaluate how you work in a team and/or competitive situation.
 
