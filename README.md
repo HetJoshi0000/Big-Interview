@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Your Job Interview Objectives
 
 <figure><img src="https://resources.biginterview.com/wp-content/uploads/17185270_sv3.jpg" alt=""><figcaption></figcaption></figure>
